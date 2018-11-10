@@ -6,7 +6,7 @@ date = 2017-09-20T00:00:00
 # Activate this widget? true/false
 active = true
 
-title = "Habilidades"
+title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
